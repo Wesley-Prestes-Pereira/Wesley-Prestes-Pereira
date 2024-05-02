@@ -1,7 +1,7 @@
 # Wesley Prestes
 
 ## Sobre
-Sou Wesley Prestes Pereira, estudante de Engenharia de Computação. No meu tempo livre, gosto de programar projetos e aplicações web, além de estudar novas linguagens de programação e idiomas. Também curto ler, jogar videogames e assistir vídeos. Planejo cursar Sistemas de Informação para aprofundar minhas habilidades e conhecimentos. Estou buscando oportunidades para começar minha carreira em programação web e suporte técnico, e no futuro, pretendo me especializar em machine learning, deep learning e inteligência artificial para desenvolver projetos inovadores em plataformas web e mobile.
+Sou Wesley Prestes Pereira, estudante de Engenharia de Computação. No meu tempo livre, gosto de programar projetos e aplicações web, além de estudar novas linguagens de programação e idiomas, também gosto de ler, jogar videogames e assistir vídeos. Planejo cursar Sistemas de Informação para aprofundar minhas habilidades e conhecimentos, posteriormente pretendo me especializar em inteligência artificial.
 
 **Localização:** Curitiba - PR  
 **Contato:** [![Email](https://img.shields.io/badge/Email-wesleypp930%40gmail.com-blue)](mailto:wesleypp930@gmail.com) | [(41) 99864-6845](tel:+5541998646845)  
