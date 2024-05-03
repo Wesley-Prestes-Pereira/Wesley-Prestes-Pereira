@@ -33,10 +33,6 @@ Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação.
 *Fev/2021 - Jan/2022*  
 - Desenvolvimento de aplicações web, logística e auxiliar de serviços gerais.
 
-### WHB AUTOMOTIVE S.A
-**Estagiário**  
-*Out/2021 - Nov/2021*  
-- Estágio em Curitiba, Paraná, Brasil.
 
 ## Formação
 
@@ -48,9 +44,6 @@ Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação.
 **Curso Técnico Integrado, Tecnologia da Informação**  
 *Fevereiro de 2017 - Dezembro de 2020*
 
-### ![Elementary](https://img.shields.io/badge/-Escola%20Omar%20Sabbag-blue?style=flat&logo=elementary&logoColor=white) Escola Municipal Prefeito Omar Sabbag
-**Ensino Fundamental**  
-*2008 - 2016*
 
 ## Habilidades
 
