@@ -8,24 +8,24 @@ Meu nome é Wesley Prestes Pereira, estou cursando Engenharia de Computação. N
 
 ## Experiência
 
-### Desenvolvedor back-end Jr
+### 👨‍💻 Desenvolvedor back-end Jr
 **Adservi**  
 *Mai/2023 – Atual*  
 - Desenvolvimento de páginas web dinâmicas usando PHP, MySQL, JavaScript, CSS e HTML.
 - Experiência com frameworks como Bulma, Bootstrap e Laravel.
 
-### Técnico em Informática Sênior
+### 💻 Técnico em Informática Sênior
 **Adservi**  
 *Nov/2022 – Mai/2023*  
 - Manutenção preventiva e corretiva de desktops, notebooks e impressoras.
 - Organização do local de trabalho.
 
-### Suporte Técnico
+### 💻 Suporte Técnico
 **Dixi Ponto**  
 *Mar/2022 – Nov/2022*  
 - Expedição, suporte ao cliente, suporte técnico e infraestrutura.
 
-### Exército Brasileiro
+### 🔰 Exército Brasileiro
 **Soldado**  
 *Fev/2021 - Jan/2022*  
 - Desenvolvimento de aplicações web, logística e auxiliar de serviços gerais.
