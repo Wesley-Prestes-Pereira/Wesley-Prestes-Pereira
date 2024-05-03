@@ -1,7 +1,7 @@
 # Wesley Prestes
 
 ## Sobre
-Meu nome é Wesley Prestes Pereira e estou estudando cursando de computação. No meu tempo livre, gosto de programar projetos e aplicações web, estudar novos idiomas e linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em seguida, pretendo me especializar em inteligência artificial.
+Meu nome é Wesley Prestes Pereira e estou cursando de computação. No meu tempo livre, gosto de programar projetos e aplicações web, estudar novos idiomas e linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em seguida, pretendo me especializar em inteligência artificial.
 
 
 **Contato:** [![Email](https://img.shields.io/badge/Email-wesleypp930%40gmail.com-blue)](mailto:wesleypp930@gmail.com)  
