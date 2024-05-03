@@ -1,7 +1,7 @@
 # Wesley Prestes
 
 ## Sobre
-Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação. No meu tempo livre, gosto de programar projetos e aplicações web, estudar novos idiomas e linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em seguida, pretendo me especializar em inteligência artificial.
+Meu nome é Wesley Prestes Pereira e estou estudando cursando de computação. No meu tempo livre, gosto de programar projetos e aplicações web, estudar novos idiomas e linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em seguida, pretendo me especializar em inteligência artificial.
 
 
 **Contato:** [![Email](https://img.shields.io/badge/Email-wesleypp930%40gmail.com-blue)](mailto:wesleypp930@gmail.com)  
@@ -36,7 +36,7 @@ Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação.
 
 ### ![Graduation Cap](https://img.shields.io/badge/-UNIFATEC-0056b3?style=flat&logo=university&logoColor=white) - Centro Universitário de Tecnologia de Curitiba - UNIFATEC
 **Bacharelado em Engenharia, Engenharia de Computação**  
-*Cursando*
+*Fevereira de 2022 - Cursando*
 
 ### ![School](https://img.shields.io/badge/-CEPMAT-brightgreen?style=flat&logo=school&logoColor=white) - Colégio Estadual Professora Maria Aguiar Teixeira
 **Curso Técnico Integrado, Tecnologia da Informação**  
