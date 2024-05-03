@@ -36,11 +36,11 @@ Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação.
 
 ## Formação
 
-### ![Graduation Cap](https://img.shields.io/badge/-UNIFATEC-0056b3?style=flat&logo=university&logoColor=white) Centro Universitário de Tecnologia de Curitiba - UNIFATEC
+### ![Graduation Cap](https://img.shields.io/badge/-UNIFATEC-0056b3?style=flat&logo=university&logoColor=white) - Centro Universitário de Tecnologia de Curitiba - UNIFATEC
 **Bacharelado em Engenharia, Engenharia de Computação**  
 *Cursando*
 
-### ![School](https://img.shields.io/badge/-Colégio%20Maria%20Aguiar%20Teixeira-brightgreen?style=flat&logo=school&logoColor=white) Colégio Estadual Professora Maria Aguiar Teixeira
+### ![School](https://img.shields.io/badge/-CEPMAT-brightgreen?style=flat&logo=school&logoColor=white) - Colégio Estadual Professora Maria Aguiar Teixeira
 **Curso Técnico Integrado, Tecnologia da Informação**  
 *Fevereiro de 2017 - Dezembro de 2020*
 
