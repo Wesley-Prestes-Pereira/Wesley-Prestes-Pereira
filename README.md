@@ -4,10 +4,8 @@
 Meu nome é Wesley Prestes Pereira e estou estudando engenharia de computação. No meu tempo livre, gosto de programar projetos e aplicações web, estudar novos idiomas e linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em seguida, pretendo me especializar em inteligência artificial.
 
 
-**Localização:** Curitiba - PR  
-**Contato:** [![Email](https://img.shields.io/badge/Email-wesleypp930%40gmail.com-blue)](mailto:wesleypp930@gmail.com) | [(41) 99864-6845](tel:+5541998646845)  
+**Contato:** [![Email](https://img.shields.io/badge/Email-wesleypp930%40gmail.com-blue)](mailto:wesleypp930@gmail.com)  
 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Prestes%20Pereira-blue)](https://www.linkedin.com/in/wesley-prestes-pereira-924423183/)  
-**WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B5541998646845-brightgreen)](https://wa.me/5541998646845)
 
 ## Experiência
 
