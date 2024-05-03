@@ -1,5 +1,5 @@
-# Wesley Prestes
-
+<a style="background-color:blue;color:white; line-height:3;">Wesley Prestes Pereira</a>
+# 
 ## Sobre
 Meu nome é Wesley Prestes Pereira, estou cursando Engenharia de Computação. No meu tempo livre, gosto de programar projetos, aplicações web, estudar novos idiomas, linguagens de programação e jogar videogames. Para melhorar minhas habilidades e compreensão, pretendo cursar Sistemas de Informação. Em sequência, penso em me especializar em inteligência artificial.
 
@@ -8,7 +8,7 @@ Meu nome é Wesley Prestes Pereira, estou cursando Engenharia de Computação. N
 
 ## Experiência
 
-### Desenvolvedor Full Stack Júnior
+### Desenvolvedor back-end Jr
 **Adservi**  
 *Mai/2023 – Atual*  
 - Desenvolvimento de páginas web dinâmicas usando PHP, MySQL, JavaScript, CSS e HTML.
