@@ -8,24 +8,24 @@ Meu nome é Wesley Prestes Pereira, estou cursando Engenharia de Computação. N
 
 ## Experiência
 
-### ![Back-end](https://img.shields.io/badge/-Back--end%20Developer-007ACC?style=flat&logo=php&logoColor=white) Desenvolvedor back-end Jr
+### Desenvolvedor back-end Jr
 **Adservi**  
 *Mai/2023 – Atual*  
 - Desenvolvimento de páginas web dinâmicas usando PHP, MySQL, JavaScript, CSS e HTML.
 - Experiência com frameworks como Bulma, Bootstrap e Laravel.
 
-### ![Tech Support](https://img.shields.io/badge/-Tech%20Support-007ACC?style=flat&logo=tech&logoColor=white) Técnico em Informática Sênior
+### Técnico em Informática Sênior
 **Adservi**  
 *Nov/2022 – Mai/2023*  
 - Manutenção preventiva e corretiva de desktops, notebooks e impressoras.
 - Organização do local de trabalho.
 
-### ![Support](https://img.shields.io/badge/-Support-007ACC?style=flat&logo=support&logoColor=white) Suporte Técnico
+### Suporte Técnico
 **Dixi Ponto**  
 *Mar/2022 – Nov/2022*  
 - Expedição, suporte ao cliente, suporte técnico e infraestrutura.
 
-### ![Military](https://img.shields.io/badge/-Military-007ACC?style=flat&logo=military&logoColor=white) Exército Brasileiro
+### Exército Brasileiro
 **Soldado**  
 *Fev/2021 - Jan/2022*  
 - Desenvolvimento de aplicações web, logística e auxiliar de serviços gerais.
