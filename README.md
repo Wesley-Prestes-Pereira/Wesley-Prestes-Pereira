@@ -28,15 +28,14 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 - 🏛️ **Co-desenvolvedor do Portal da Transparência da ALEP** (2025) - Promovendo maior acessibilidade e transparência pública
 - 📱 **Desenvolvedor do app "Agora é Lei no Paraná"** - Aplicativo Flutter para acompanhamento de legislação estadual
 - 🌐 **Contribuição ativa no site institucional da ALEP** - Melhorando comunicação com a sociedade
-- 🔒 **Implementação de segurança web** em sistemas críticos
+- 🔒 **Implementação de segurança web** em sistemas internos e externos
 - ⚡ **Otimização de processos legislativos** através de sistemas web internos
 
 ### 🚀 **Objetivos até 2030:**
 - 🤖 Especialização em **Inteligência Artificial e Machine Learning**
 - 🌐 Expansão para desenvolvimento **Full-Stack** com React e Node.js
 - 📱 Aprofundamento em **desenvolvimento mobile multiplataforma**
-- 🌍 Contribuir para projetos que **democratizem o acesso à tecnologia**
-- 📈 Liderar projetos **Open Source** de impacto social
+
 
 ---
 
