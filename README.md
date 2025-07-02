@@ -174,28 +174,24 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>🏛️ Portal da Transparência - ALEP</h3>
   <p>Co-desenvolvimento do novo Portal da Transparência da Assembleia Legislativa do Paraná, promovendo maior acessibilidade e transparência pública aos dados legislativos.</p>
-  <p><strong>Tech:</strong> PHP, Laravel, MySQL, JavaScript, Bootstrap</p>
   <p><strong>Status:</strong> Em produção (2025)</p>
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>📱 Agora é Lei no Paraná</h3>
   <p>Aplicativo mobile desenvolvido em Flutter para acompanhamento da legislação estadual do Paraná, permitindo aos cidadãos ficarem informados sobre novas leis e projetos.</p>
-  <p><strong>Tech:</strong> Flutter, Android</p>
   <p><strong>Status:</strong> Disponível na Play Store</p>
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>🌐 Site Institucional ALEP</h3>
   <p>Contribuição ativa no desenvolvimento e manutenção do site oficial da ALEP, melhorando a comunicação entre o poder legislativo e a sociedade.</p>
-  <p><strong>Tech:</strong> PHP, Laravel, MySQL, JavaScript</p>
   <p><strong>Status:</strong> Em produção</p>
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>⚡ Sistemas Internos ALEP</h3>
   <p>Desenvolvimento de sistemas web internos que otimizam processos legislativos, aumentando a eficiência e produtividade dos trabalhos internos.</p>
-  <p><strong>Tech:</strong> PHP, Laravel, MySQL, Segurança Web</p>
   <p><strong>Status:</strong> Em uso interno</p>
 </div>
 
@@ -229,7 +225,7 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 
 <div align="left">
   <h3>📱 Mobile Dev</h3>
-  <p>Desenvolvimento de apps Flutter</p>
+  <p>Desenvolvimento de apps</p>
 </div>
 
 <div align="left">
