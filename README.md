@@ -181,7 +181,7 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>📱 Agora é Lei no Paraná</h3>
   <p>Aplicativo mobile desenvolvido em Flutter para acompanhamento da legislação estadual do Paraná, permitindo aos cidadãos ficarem informados sobre novas leis e projetos.</p>
-  <p><strong>Tech:</strong> Flutter, Dart, Android</p>
+  <p><strong>Tech:</strong> Flutter, Android</p>
   <p><strong>Status:</strong> Disponível na Play Store</p>
 </div>
 
