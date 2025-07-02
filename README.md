@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Jr;Estudante+de+Engenharia+da+Computação)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Jr;Estudante+de+Engenharia+da+Computação;23+anos+%7C+Curitiba+-+PR)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Wesley-Prestes-Pereira?tab=repositories)
 [![Currículo](https://img.shields.io/badge/Currículo-Download%20PDF-2196F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Wesley-Prestes-Pereira/Wesley-Prestes-Pereira/blob/main/Curriculo%20-%20Wesley%20Prestes.pdf)
@@ -15,57 +15,26 @@
 
 <div style="display: flex; align-items: center;">
 
-Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na UNIFATEC e **Desenvolvedor Back-end Jr** na Adservi. Tenho uma paixão genuína por tecnologia e desenvolvimento de software, sempre buscando aprender e aplicar novas tecnologias em projetos inovadores.
+Sou **Wesley Prestes Pereira**, 23 anos, estudante de **Engenharia de Computação** na UNIFATEC e **Desenvolvedor Back-end Jr** na Adservi. Tenho uma paixão genuína por tecnologia e desenvolvimento de software, sempre buscando aprender e aplicar novas tecnologias em projetos inovadores.
 
 ### 🎯 **Minha Jornada:**
-- 💻 **Desenvolvedor Back-end Jr** com experiência em PHP, Laravel e MySQL
-- 🎓 **Estudante de Engenharia de Computação**
+- 💻 **Desenvolvedor Back-end Jr** com mais de 1 ano de experiência em PHP, Laravel e MySQL
+- 🎓 **Estudante de Engenharia de Computação** na UNIFATEC (2022 - cursando)
 - 🎖️ **Ex-militar** com experiência em desenvolvimento de aplicações web
-- 🔧 **Técnico em TI** com sólida base em hardware e software
+- 🔧 **Técnico em Informática** formado pelo CEPMAT (2017-2020)
 
 ### 🌟 **Interesses Atuais:**
 - 🤖 **Inteligência Artificial** e Machine Learning
 - 🌐 **Desenvolvimento Web Full-Stack**
 - 📱 **Desenvolvimento de APIs RESTful**
 - 🎮 **Game Development** como hobby
-- 🌍 **Aprendizado de idiomas**
+- 🌍 **Aprendizado de idiomas** (Inglês avançado)
 
-### 🚀 **Objetivos até 2030:**
-- 📚 Iniciar graduação em **Sistemas de Informação**
+### 🚀 **Objetivos:**
 - 🤖 Especialização em **IA e Machine Learning**
 - 🌐 Expandir conhecimentos em **Node.js** e **React**
 - 📈 Contribuir mais para projetos **Open Source**
-
----
-
-
-
-## 🎮 Interesses & Hobbies
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-
-<div align="left">
-  <h3>🎮 Gaming</h3>
-  <p>Estratégia, RPG e Simulação</p>
-</div>
-
-<div align="left">
-  <h3>💻 Desenvolvimento</h3>
-  <p>Projetos pessoais e Open Source</p>
-</div>
-
-<div align="left">
-  <h3>🔧 Hardware</h3>
-  <p>Montagem e manutenção de PCs</p>
-</div>
-
-<div align="left">
-  <h3>🌍 Idiomas</h3>
-  <p>Aprendizado contínuo</p>
-</div>
-
-</div>
-</div>
+- 🎯 Crescimento profissional como desenvolvedor Full-Stack
 
 ---
 
@@ -76,12 +45,13 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 <li style="display: flex; margin-bottom: 20px; padding: 15px; border-left: 4px solid #0366d6; background-color: #f6f8fa;">
   <div>
     <h3>👨‍💻 Desenvolvedor Back-end Jr | <em>Adservi</em></h3>
-    <p><strong>📅 Mai/2023 – Atual</strong></p>
+    <p><strong>📅 Mai/2023 – Atual</strong> (1 ano e 2 meses)</p>
     <ul>
       <li>🔹 Desenvolvimento de páginas web dinâmicas com <strong>PHP</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong></li>
       <li>🔹 Implementação de soluções utilizando <strong>Laravel</strong>, <strong>Bootstrap</strong> e <strong>Bulma</strong></li>
+      <li>🔹 Desenvolvimento de aplicações web responsivas com HTML, CSS e JavaScript</li>
       <li>🔹 Otimização de performance e manutenção de sistemas legados</li>
-      <li>🔹 Participação em code reviews e boas práticas de desenvolvimento</li>
+      <li>🔹 Participação em code reviews e aplicação de boas práticas de desenvolvimento</li>
     </ul>
   </div>
 </li>
@@ -89,9 +59,10 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 <li style="display: flex; margin-bottom: 20px; padding: 15px; border-left: 4px solid #28a745; background-color: #f6f8fa;">
   <div>
     <h3>💻 Técnico em Informática Sênior | <em>Adservi</em></h3>
-    <p><strong>📅 Nov/2022 – Mai/2023</strong></p>
+    <p><strong>📅 Nov/2022 – Mai/2023</strong> (6 meses)</p>
     <ul>
       <li>🔹 Manutenção preventiva e corretiva de hardware (desktops, notebooks, impressoras)</li>
+      <li>🔹 Suporte técnico especializado e helpdesk</li>
       <li>🔹 Organização e otimização do ambiente de trabalho</li>
       <li>🔹 Implementação de melhorias na infraestrutura de TI</li>
     </ul>
@@ -101,11 +72,12 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 <li style="display: flex; margin-bottom: 20px; padding: 15px; border-left: 4px solid #ffc107; background-color: #f6f8fa;">
   <div>
     <h3>🔧 Suporte Técnico | <em>Dixi Ponto</em></h3>
-    <p><strong>📅 Mar/2022 – Nov/2022</strong></p>
+    <p><strong>📅 Mar/2022 – Nov/2022</strong> (8 meses)</p>
     <ul>
       <li>🔹 Atendimento ao cliente e suporte técnico especializado</li>
       <li>🔹 Gestão de expedição e infraestrutura tecnológica</li>
       <li>🔹 Resolução de problemas complexos de hardware e software</li>
+      <li>🔹 Suporte em infraestrutura de TI</li>
     </ul>
   </div>
 </li>
@@ -113,11 +85,12 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 <li style="display: flex; margin-bottom: 20px; padding: 15px; border-left: 4px solid #dc3545; background-color: #f6f8fa;">
   <div>
     <h3>🎖️ Soldado | <em>Exército Brasileiro</em></h3>
-    <p><strong>📅 Fev/2021 – Jan/2022</strong></p>
+    <p><strong>📅 Fev/2021 – Jan/2022</strong> (1 ano)</p>
     <ul>
       <li>🔹 Desenvolvimento de aplicações web para uso interno</li>
       <li>🔹 Logística e auxiliar de serviços gerais</li>
       <li>🔹 Trabalho em equipe e disciplina militar</li>
+      <li>🔹 Experiência em ambiente estruturado e hierárquico</li>
     </ul>
   </div>
 </li>
@@ -138,10 +111,10 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 </div>
 
 <div style="border: 2px solid #28a745; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;">
-  <h3>🏫 Técnico em TI</h3>
+  <h3>🏫 Ensino Médio Técnico em Informática</h3>
   <p><strong>CEPMAT - Colégio Estadual Prof. Maria Aguiar Teixeira</strong></p>
   <p>📅 <strong>Fev/2017 – Dez/2020</strong></p>
-  <p>🎯 Base sólida em programação e infraestrutura</p>
+  <p>🎯 Base sólida em programação e infraestrutura de TI</p>
 </div>
 
 </div>
@@ -170,7 +143,7 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 </div>
 
-### 🔧 **Tools & Others**
+### 🔧 **Tools & Infrastructure**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -179,9 +152,37 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 </div>
 
-### 🌐 **Languages**
+### 🗣️ **Languages**
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Avancado-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Avançado-blue?style=for-the-badge)
+
+---
+
+## 🎮 Interesses & Hobbies
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+
+<div align="left">
+  <h3>🎮 Gaming</h3>
+  <p>Estratégia, RPG e Simulação</p>
+</div>
+
+<div align="left">
+  <h3>💻 Desenvolvimento</h3>
+  <p>Projetos pessoais e Open Source</p>
+</div>
+
+<div align="left">
+  <h3>🔧 Hardware</h3>
+  <p>Montagem e manutenção de PCs</p>
+</div>
+
+<div align="left">
+  <h3>🌍 Idiomas</h3>
+  <p>Aprendizado contínuo de inglês</p>
+</div>
+
+</div>
 
 ---
 
@@ -201,6 +202,12 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
   <p><strong>Tech:</strong> Shell Script, Linux, Bash</p>
 </div>
 
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
+  <h3>💼 Aplicações Corporativas</h3>
+  <p>Desenvolvimento de soluções web para ambiente corporativo durante experiência militar e profissional.</p>
+  <p><strong>Tech:</strong> PHP, JavaScript, HTML, CSS</p>
+</div>
+
 </div>
 
 ---
@@ -212,6 +219,9 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 [![Email](https://img.shields.io/badge/Gmail-wesleypp930%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleypp930@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Prestes%20Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-prestes-pereira)
 [![GitHub](https://img.shields.io/badge/GitHub-Wesley--Prestes--Pereira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wesley-Prestes-Pereira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(41)%2099864--6845-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998646845)
+
+**📍 Curitiba - PR | 🎂 23 anos**
 
 </div>
 
@@ -242,6 +252,20 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Prestes-Pereira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Prestes-Pereira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 Habilidades Técnicas
+
+<div align="center">
+
+**💻 Programação Web:** HTML, PHP, JavaScript, MySQL  
+**🎨 Frameworks:** Laravel, Bootstrap, Bulma  
+**🔧 Infraestrutura:** Manutenção de computadores, servidores, suporte técnico  
+**📜 Automação:** Shell Script, Linux/Bash  
+**📊 Ferramentas:** Git, Pacote Office, Sistemas de controle de versão  
 
 </div>
 
