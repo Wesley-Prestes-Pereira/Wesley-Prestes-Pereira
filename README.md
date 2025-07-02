@@ -28,7 +28,7 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 - 🌐 **Desenvolvimento Web Full-Stack**
 - 📱 **Desenvolvimento de APIs RESTful**
 - 🎮 **Game Development** como hobby
-- 🌍 **Aprendizado de idiomas** (atualmente alemão)
+- 🌍 **Aprendizado de idiomas**
 
 ### 🚀 **Objetivos até 2030:**
 - 📚 Iniciar graduação em **Sistemas de Informação**
@@ -128,7 +128,7 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 <div style="border: 2px solid #0366d6; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
   <h3>🎓 Engenharia de Computação</h3>
   <p><strong>UNIFATEC - Centro Universitário de Tecnologia de Curitiba</strong></p>
-  <p>📅 <strong>Fev/2022 – Cursando (6º Semestre)</strong></p>
+  <p>📅 <strong>Fev/2022 – Cursando</strong></p>
   <p>🎯 Foco em desenvolvimento de software e sistemas embarcados</p>
 </div>
 
