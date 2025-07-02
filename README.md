@@ -176,7 +176,7 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 ### 🌐 **Languages**
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Avancado-red?style=for-the-badge)
 
 ---
 
