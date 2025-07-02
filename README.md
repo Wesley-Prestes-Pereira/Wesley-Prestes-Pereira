@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Jr;Estudante+de+Engenharia+da+Computação)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Wesley-Prestes-Pereira)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Wesley-Prestes-Pereira?tab=repositories)
 [![Currículo](https://img.shields.io/badge/Currículo-Download%20PDF-2196F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Wesley-Prestes-Pereira/Wesley-Prestes-Pereira/blob/main/Curriculo%20-%20Wesley%20Prestes.pdf)
 
 </div>
