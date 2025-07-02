@@ -44,22 +44,22 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
 
-<div align="center">
+<div align="left">
   <h3>🎮 Gaming</h3>
   <p>Estratégia, RPG e Simulação</p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>💻 Desenvolvimento</h3>
   <p>Projetos pessoais e Open Source</p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>🔧 Hardware</h3>
   <p>Montagem e manutenção de PCs</p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>🌍 Idiomas</h3>
   <p>Aprendizado contínuo</p>
 </div>
