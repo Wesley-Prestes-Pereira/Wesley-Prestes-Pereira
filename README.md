@@ -136,7 +136,6 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
