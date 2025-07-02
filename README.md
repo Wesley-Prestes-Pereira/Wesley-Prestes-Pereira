@@ -28,9 +28,9 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 - 🌐 **Desenvolvimento Web Full-Stack**
 - 📱 **Desenvolvimento de APIs RESTful**
 - 🎮 **Game Development** como hobby
-- 🌍 **Aprendizado de idiomas** (atualmente inglês)
+- 🌍 **Aprendizado de idiomas** (atualmente alemão)
 
-### 🚀 **Objetivos 2025:**
+### 🚀 **Objetivos até 2030:**
 - 📚 Iniciar graduação em **Sistemas de Informação**
 - 🤖 Especialização em **IA e Machine Learning**
 - 🌐 Expandir conhecimentos em **Node.js** e **React**
