@@ -36,30 +36,35 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 - 🌐 Expandir conhecimentos em **Node.js** e **React**
 - 📈 Contribuir mais para projetos **Open Source**
 
-</div>
-
 ---
 
-## 📊 Estatísticas GitHub
+
+
+## 🎮 Interesses & Hobbies
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
 
 <div align="center">
-  
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Prestes-Pereira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Prestes-Pereira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-
+  <h3>🎮 Gaming</h3>
+  <p>Estratégia, RPG e Simulação</p>
 </div>
 
----
-
-## 📞 Vamos Conversar?
+<div align="center">
+  <h3>💻 Desenvolvimento</h3>
+  <p>Projetos pessoais e Open Source</p>
+</div>
 
 <div align="center">
+  <h3>🔧 Hardware</h3>
+  <p>Montagem e manutenção de PCs</p>
+</div>
 
-[![Email](https://img.shields.io/badge/Gmail-wesleypp930%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleypp930@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Prestes%20Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-prestes-pereira)
-[![GitHub](https://img.shields.io/badge/GitHub-Wesley--Prestes--Pereira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wesley-Prestes-Pereira)
+<div align="center">
+  <h3>🌍 Idiomas</h3>
+  <p>Aprendizado contínuo</p>
+</div>
 
+</div>
 </div>
 
 ---
@@ -200,39 +205,13 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 ---
 
-## 📈 Atividade no GitHub
+## 📞 Vamos Conversar?
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesley-Prestes-Pereira&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🎮 Interesses & Hobbies
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-
-<div align="center">
-  <h3>🎮 Gaming</h3>
-  <p>Estratégia, RPG e Simulação</p>
-</div>
-
-<div align="center">
-  <h3>💻 Desenvolvimento</h3>
-  <p>Projetos pessoais e Open Source</p>
-</div>
-
-<div align="center">
-  <h3>🔧 Hardware</h3>
-  <p>Montagem e manutenção de PCs</p>
-</div>
-
-<div align="center">
-  <h3>🌍 Idiomas</h3>
-  <p>Aprendizado contínuo</p>
-</div>
+[![Email](https://img.shields.io/badge/Gmail-wesleypp930%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleypp930@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Prestes%20Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-prestes-pereira)
+[![GitHub](https://img.shields.io/badge/GitHub-Wesley--Prestes--Pereira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wesley-Prestes-Pereira)
 
 </div>
 
@@ -243,6 +222,28 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 ![Visitor Count](https://profile-counter.glitch.me/Wesley-Prestes-Pereira/count.svg)
 
 **⭐ Se você gostou dos meus projetos, considere dar uma estrela nos repositórios!**
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesley-Prestes-Pereira&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Prestes-Pereira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Prestes-Pereira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+</div>
 
 ---
 
