@@ -19,7 +19,7 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 ### 🎯 **Minha Jornada:**
 - 💻 **Desenvolvedor Back-end Jr** com experiência em PHP, Laravel e MySQL
-- 🎓 **Estudante de Engenharia de Computação** - 6º semestre
+- 🎓 **Estudante de Engenharia de Computação**
 - 🎖️ **Ex-militar** com experiência em desenvolvimento de aplicações web
 - 🔧 **Técnico em TI** com sólida base em hardware e software
 
