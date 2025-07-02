@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Wesley Prestes Pereira
+# 👋 Olá! Eu sou Wesley
 
 <div align="center">
   
