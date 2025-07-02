@@ -194,7 +194,7 @@ Sou **Wesley Prestes Pereira**, desenvolvedor **Back-end** com **mais de 2 anos 
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
   <h3>⚡ Sistemas Internos ALEP</h3>
-  <p>Desenvolvimento de sistemas web internos que otimizam processos legislativos, aumentando a eficiência e produtividade dos trabalhos parlamentares.</p>
+  <p>Desenvolvimento de sistemas web internos que otimizam processos legislativos, aumentando a eficiência e produtividade dos trabalhos internos.</p>
   <p><strong>Tech:</strong> PHP, Laravel, MySQL, Segurança Web</p>
   <p><strong>Status:</strong> Em uso interno</p>
 </div>
