@@ -240,8 +240,6 @@ Sou **Wesley Prestes Pereira**, estudante de **Engenharia de Computação** na U
 
 <div align="center">
 
-### 💡 "O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
-
 ![Visitor Count](https://profile-counter.glitch.me/Wesley-Prestes-Pereira/count.svg)
 
 **⭐ Se você gostou dos meus projetos, considere dar uma estrela nos repositórios!**
